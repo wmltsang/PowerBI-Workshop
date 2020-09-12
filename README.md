@@ -1,5 +1,5 @@
 # power-bi-workshop
-#### The data is derived from the Indeed Data Scientist/Analyst/Engineer dataset on kaggle.com[data](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer)
+#### The data is derived from the Indeed Data Scientist/Analyst/Engineer dataset [data](https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer) on kaggle.com
 
 ##[My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzBmYzU0YzctNjJjYy00ODExLWIwMDQtODdiOTFkNWZjNTg4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=ReportSection)
 
