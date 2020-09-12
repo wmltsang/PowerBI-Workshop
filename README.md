@@ -4,7 +4,7 @@ https://app.powerbi.com/view?r=eyJrIjoiYzBmYzU0YzctNjJjYy00ODExLWIwMDQtODdiOTFkN
 
 ## Data Analyst Jobs dataset in US from Indeed 
 
-###Looking at total company counts approx. 1800, the average job ratings for the companies are 3.79 indicating that data analysts have an average high job satisfaction. 
+### Looking at total company counts approx. 1800, the average job ratings for the companies are 3.79 indicating that data analysts have an average high job satisfaction. 
 
 ### The Top 5 industires with data analytic jobs are Consulting and business Services, Healthcare, Internet and Software, Banks and Financial services, Education and Schools and Insurance in descending orders.
 
